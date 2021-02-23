@@ -33,13 +33,13 @@ To enhance the features of DR in mild cases, the images were converted to greysc
 <hr>
 
 | Set| Metric | Result | 
-|--|--|--|--|--| 
-| Training | Accuracy | 0.9286 |  |  | 
-| | Loss | 0.4294 |  |  | 
-| Validation| Accuracy | 0.6017 |  |  | 
-| | Loss | 6.6678 |  |  | 
-| Testing | Accuracy | 0.6086 |  |  | 
-| | Loss | 3.9230 |  |  | 
+|--|--|--|
+| Training | Accuracy | 0.9286 |
+| | Loss | 0.4294 |
+| Validation| Accuracy | 0.6017 |
+| | Loss | 6.6678 |
+| Testing | Accuracy | 0.6086 |
+| | Loss | 3.9230 |
 
 # Technologies Used
 ## Modeling
