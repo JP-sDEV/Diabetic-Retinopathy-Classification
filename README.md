@@ -20,7 +20,7 @@ There was different lighting conditions in some of the images, leading to some b
 To enhance the features of DR in mild cases, the images were converted to greyscale, then the contrast was adjusted via [histogram equalization](https://en.wikipedia.org/wiki/Histogram_equalization). Additionally, the images were resized to 224x224 to fit MobileNetV2's input layer. 
 
 ### Preprocessed Images
-![preprocessed images](https://www.kaggleusercontent.com/kf/54977248/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..TKdeojEv-uvFuv7C9r3W8w.xiQKQaYxASx_emg4iIwJ_7mu1qs_a90_Z-XagrX8pMvLS_E0e_Lsb-bVM0p8o4l18Din7nyduuBKV7gr8MD5gQZTDAk30FZD6TwMw5KkHQnCELeUY8Z7R9HoMbNUwUNwrKGkpxNX9UjYDb6dxJxoW55Nej_p6YUHZaVwywtUDbZ2GeXN6QsZ_A2Jiydti4Fz7yxOWwxtBHNflj_PswkbN1Z5Tt7Q9V8wohebPSgQiE7wIq1sI2FMOcHoSje0KydOc8jGVteX6jrnzhHwBZ02HrJacZzuntyC1pBAPS2mqNnGuvI7hZEBqq35iiDrqcsm58aSn-FZrMLEI7qNBqFD5sjR7ESQJNVhcS92fN00sZF87aL-DKay_0RdlURPXzJAoeI3o9iuVKPjxE-ED8OJ74yOzSZjwWZ4JJsRbmhuf25_NXMSn0moB8Qpx40u8zTbQMSy8Ffr9G_P7sW-WDyGTViwx8V4SmXG6bnRuJnciGfZPuaSCdl6DqMcVXKl9zbFbnQwGNuZ8pPVVPVTRaTc67k9pvTlDiLC-kPLweba7L8KBGrJX7a1yHFAeATkjURwZCHzrsRKoFF9jHPl84FOZJyqDvl5aAL0JPAvwrDSybVBhhfbVh8qn4_7bo9Eu0M7JdLsspRBzLyH8P0gepRIq_trzDcgFx2z9G2cWKXbctJGjp5jpA-BEvftGBavi4Y8.vBdHUFtRXwlagBOoWod8zg/__results___files/__results___12_2.png)
+<img src="https://github.com/JP-sDEV/Diabetic-Retinopathy-Classification/blob/main/preprocessed_imgs.png" width="100%">
 
 ## Model Performance Metrics
 |Training Parameter  | Value |
